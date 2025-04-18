@@ -1,4 +1,2 @@
-1.0.1
-- Added peacetime enforcement
-- Improved AOP sync
-- Bugfix: HUD not updating for late joins
+1.0.0
+- First Version. Yay!
