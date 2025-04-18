@@ -1,4 +1,4 @@
 1.0.1
-- Test
-- Test
-- TEST!
+- Added peacetime enforcement
+- Improved AOP sync
+- Bugfix: HUD not updating for late joins
